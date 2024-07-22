@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3e4d44772e122a38",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e81c43f9fa255b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054c2586176938f0",
+            "type": "leaf",
+            "state": {
+              "type": "video",
+              "state": {
+                "file": "Videos/albino.Friends S01.mp4"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5f9858d4c6450bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e267a082427061f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb831157bf4f0d41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2a6f9fd4b69271a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d579cc572e2f7f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "196bf0fd8fa81430",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb7d24b50d80f6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8434be6ec862c168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Videos/albino.Friends S01.mp4",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d032aba3416715b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Videos/albino.Friends S01.mp4",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "364ec113541c7cdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1db79e8e2ed31c8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Videos/albino.Friends S01.mp4"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "054c2586176938f0",
+  "lastOpenFiles": [
+    "Source/Summary.md",
+    "Source/Friends.S01.png",
+    "Friends S01/单词.md",
+    "Friends S01/Friends.S01E01 1.png",
+    "Covers/drift apart.Friends S01.png",
+    "Source",
+    "Covers/Friends.S01E01.The.One.Where.Monica.Gets.A.Roommate.1080p.BluRay.REMUX.AVC.DD.5.1-NOGRP-0001.png",
+    "单词/Albino.md",
+    "Videos/test.wav",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "2024-07-06.md",
+    "Videos/bridesmaid.Friends S01.mp4",
+    "Videos/albino.Friends S01.mp4",
+    "Videos/crash.Friends S01.mp4",
+    "单词/crash.md",
+    "单词/Bridesmaid.md",
+    "单词/Organ.md",
+    "表达/依靠...生活.md",
+    "表达/眼熟.md",
+    "Videos/live off.Friends S01.mp4",
+    "表达/当回事.md",
+    "表达/让...性奋.md",
+    "表达/区别.md",
+    "Videos/make a difference.Friends S01.mp4",
+    "表达/打起精神;振作起来.md",
+    "表达/风生水起.md",
+    "Videos/on a roll.Friends S01.mp4",
+    "表达/下定决心.md",
+    "Videos/get it together.Friends S01.mp4",
+    "表达/关系疏远.md",
+    "表达/离开(某人).md",
+    "Videos/walk out on sb.Friends S01.mp4",
+    "Covers/look familiar.Friends S01.png",
+    "Covers/turn on.Friends S01.png",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
